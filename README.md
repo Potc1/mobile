@@ -8,7 +8,7 @@
 
 #### Главная:
 
-![[Pasted image 20260613214442.png]]
+![Страница "Главная"](https://github.com/Potc1/mobile/blob/main/photos/Pasted%20image%2020260613214442.png)
 
 #### Страница со списком товаров
 
