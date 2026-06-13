@@ -12,12 +12,12 @@
 
 #### Страница со списком товаров
 
-![[Pasted image 20260613214550.png]]
+![Страница "Товары"](https://github.com/Potc1/mobile/blob/main/photos/Pasted%20image%2020260613214550.png)
 
 #### Страница одного товара
 
-![[Pasted image 20260613215855.png]]
+![Страница "Товар"](https://github.com/Potc1/mobile/blob/main/photos/Pasted%20image%2020260613215855.png)
 
 #### Страница "Корзина"
 
-![[Pasted image 20260613215938.png]]
+![Страница "Корзина"](https://github.com/Potc1/mobile/blob/main/photos/Pasted%20image%2020260613215938.png)
